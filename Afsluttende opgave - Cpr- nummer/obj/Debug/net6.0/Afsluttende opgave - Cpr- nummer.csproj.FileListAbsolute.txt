@@ -1,0 +1,15 @@
+C:\Users\mgame\source\repos\Afsluttende opgave - Cpr- nummer\obj\Debug\net6.0\Afsluttende opgave - Cpr- nummer.csproj.AssemblyReference.cache
+C:\Users\mgame\source\repos\Afsluttende opgave - Cpr- nummer\obj\Debug\net6.0\Afsluttende opgave - Cpr- nummer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgame\source\repos\Afsluttende opgave - Cpr- nummer\obj\Debug\net6.0\Afsluttende opgave - Cpr- nummer.AssemblyInfoInputs.cache
+C:\Users\mgame\source\repos\Afsluttende opgave - Cpr- nummer\obj\Debug\net6.0\Afsluttende opgave - Cpr- nummer.AssemblyInfo.cs
+C:\Users\mgame\source\repos\Afsluttende opgave - Cpr- nummer\obj\Debug\net6.0\Afsluttende opgave - Cpr- nummer.csproj.CoreCompileInputs.cache
+C:\Users\mgame\source\repos\Afsluttende opgave - Cpr- nummer\bin\Debug\net6.0\Afsluttende opgave - Cpr- nummer.exe
+C:\Users\mgame\source\repos\Afsluttende opgave - Cpr- nummer\bin\Debug\net6.0\Afsluttende opgave - Cpr- nummer.deps.json
+C:\Users\mgame\source\repos\Afsluttende opgave - Cpr- nummer\bin\Debug\net6.0\Afsluttende opgave - Cpr- nummer.runtimeconfig.json
+C:\Users\mgame\source\repos\Afsluttende opgave - Cpr- nummer\bin\Debug\net6.0\Afsluttende opgave - Cpr- nummer.dll
+C:\Users\mgame\source\repos\Afsluttende opgave - Cpr- nummer\bin\Debug\net6.0\Afsluttende opgave - Cpr- nummer.pdb
+C:\Users\mgame\source\repos\Afsluttende opgave - Cpr- nummer\obj\Debug\net6.0\Afsluttende opgave - Cpr- nummer.dll
+C:\Users\mgame\source\repos\Afsluttende opgave - Cpr- nummer\obj\Debug\net6.0\refint\Afsluttende opgave - Cpr- nummer.dll
+C:\Users\mgame\source\repos\Afsluttende opgave - Cpr- nummer\obj\Debug\net6.0\Afsluttende opgave - Cpr- nummer.pdb
+C:\Users\mgame\source\repos\Afsluttende opgave - Cpr- nummer\obj\Debug\net6.0\Afsluttende opgave - Cpr- nummer.genruntimeconfig.cache
+C:\Users\mgame\source\repos\Afsluttende opgave - Cpr- nummer\obj\Debug\net6.0\ref\Afsluttende opgave - Cpr- nummer.dll
