@@ -1,4 +1,4 @@
-# Hovedforløb og Grundforløb 📚✨
+# Hovedforløb og Grundforløb 🌟📚✨
 
 Velkommen til vores wiki om Hovedforløb og Grundforløb! Her finder du essentielle oplysninger om emner som programmering, databaser og objektorienteret programmering. 🖥️💻
 
@@ -7,3 +7,4 @@ Velkommen til vores wiki om Hovedforløb og Grundforløb! Her finder du essentie
 
 
 
+ 
