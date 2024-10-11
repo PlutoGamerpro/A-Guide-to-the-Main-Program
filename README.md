@@ -1,12 +1,9 @@
 # Hovedforløb og Grundforløb 📚✨
 
-Velkommen til vores wiki om **Hovedforløb og Grundforløb**! Her finder du essentielle oplysninger om programmering, databaser og objektorienteret programmering. 🖥️💻
+elkommen til vores wiki om Hovedforløb og Grundforløb! Her finder du essentielle oplysninger om emner som programmering, databaser og objektorienteret programmering. 🖥️💻
 
-🔗 Du kan finde mere information og detaljer på vores [Wiki](https://github.com/PlutoGamerpro/A-Guide-to-the-Main-Program-/wiki/Wiki-A-guide-to-Main-Program). 🌐
+🔗 Udforsk vores Wiki for mere information og detaljer. 🌐 [Wiki](https://github.com/PlutoGamerpro/A-Guide-to-the-Main-Program-/wiki/Wiki-A-guide-to-Main-Program). 🌐
 
-## 🚀 Kom i gang!
-For at komme i gang med programmet, skal du følge instruktionerne i wiki'en og sørge for at have det nødvendige udviklingsmiljø opsat. 
 
-Tøv ikke med at kontakte os, hvis du har spørgsmål! 📩
 
-Happy coding! 😄✨
+
